@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MessMenu">
+
+
+
+
+
+
+
+
+
+
+        <com.gigamole.navigationtabstrip.NavigationTabStrip
+
+
+
+
+            android:id="@+id/nts"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:background="@color/colorPrimary"
+            app:nts_titles="@array/type"
+
+            app:nts_color="#ffffff"
+            app:nts_size="20sp"
+            app:nts_weight="5dp"
+            app:nts_factor="2.5"
+
+            app:nts_gravity="bottom"
+            app:nts_typeface="fonts/typeface.otf"
+            app:nts_corners_radius="5dp"
+            app:nts_animation_duration="300"
+            app:nts_active_color="#ffffffff"
+            app:nts_inactive_color="#80ffffff"
+            android:elevation="1dp"/>
+
+        <androidx.viewpager.widget.ViewPager
+            android:layout_below="@+id/nts"
+            android:id="@+id/pager"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/splash" />
+        </androidx.viewpager.widget.ViewPager>
+
+    </RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

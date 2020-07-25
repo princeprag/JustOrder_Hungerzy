@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "354476359374",
+    "firebase_url": "https://justorder-38a30.firebaseio.com",
+    "project_id": "justorder-38a30",
+    "storage_bucket": "justorder-38a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354476359374:android:bf3fd0602bc8cdeeb39a9f",
+        "android_client_info": {
+          "package_name": "com.example.justorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354476359374-shi505uof7u0p0belds6u3anijudeppe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCa8bVLlERAiQgWqlTM3xpgbVRsXqJQe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354476359374-shi505uof7u0p0belds6u3anijudeppe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

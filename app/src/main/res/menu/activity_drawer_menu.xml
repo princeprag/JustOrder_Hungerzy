@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="BPH Exclusive!!!">
+
+            <menu>
+
+        <item
+            android:id="@+id/nav_order"
+            android:title="ORDER"/>
+
+        <item
+            android:id="@+id/nav_my_order"
+
+            android:title="MY ORDERS" />
+
+        <item
+            android:id="@+id/nav_my_menu"
+
+            android:title="CANTEEN MENU" />
+            </menu>
+
+        </item>
+<!--        <item-->
+<!--            android:id="@+id/nav_rent"-->
+
+<!--            android:title="RENT" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_giveAway"-->
+
+<!--            android:title="Give Away" />-->
+
+<!--        <item-->
+<!--            android:id="@+id/nav_swap"-->
+
+<!--            android:title="Swap" />-->
+
+
+    </group>
+
+    <item android:title="For All">
+        <menu>
+
+
+            <item
+                android:id="@+id/nav_campusmenu"
+
+                android:title="Menu @ Campus" />
+
+            <item
+                android:id="@+id/nav_book"
+
+                android:title="Call and Book" />
+
+
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+<!--            <item-->
+<!--                android:id="@+id/nav_myinfo"-->
+<!--                android:title="My Profile"/>-->
+
+            <item
+                android:id="@+id/nav_aboutUs"
+
+                android:title="AboutUs" />
+<!--            <item-->
+<!--                android:id="@+id/nav_share"-->
+
+<!--                android:title="@string/menu_share" />-->
+            <item
+                android:id="@+id/nav_send_feedback"
+
+                android:title="Give Feedback" />
+            <item
+                android:id="@+id/signOut"
+
+                android:title="Sign Out"/>
+
+        </menu>
+    </item>
+</menu>

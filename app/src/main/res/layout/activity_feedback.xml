@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Feedback"
+    android:background="@drawable/hung">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Your feedback is our Earning!!! Please give your feedback"
+            android:textSize="25dp"/>
+
+        <EditText
+            android:id="@+id/edt_feedback"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:gravity="start|top"
+            android:inputType="textMultiLine" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Submit Feedback!!!"
+            android:gravity="center"
+            android:id="@+id/btn_feedback"/>
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

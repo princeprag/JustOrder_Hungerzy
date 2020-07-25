@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">JustOrder</string>
+    <string name="app_labl">HungerZy</string>
+
+    <string name="title_activity_drawer">Drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="client_web_id">354476359374-shi505uof7u0p0belds6u3anijudeppe.apps.googleusercontent.com</string>
+    <string name="vision">Prebook your food at Canteen or order your favourite food from Khokha market or even prebook your cakes and get them delivered to you at midnight and many more. Support us with this startup and follow our insta page and share it with your friends too.   </string>
+    <string name="intro">Feeling lazy to go to the khoka market to buy your favourite chicken? Ever wondered why you could not get your birthday cakes delivered at 12:00 am? Wanna buy South Indian food at your hostel from Spectrum South Hub?
+Then, here comes HUNGERZY </string>
+
+
+    <string-array name="Hostel">
+        <item> Brahmaputra </item>
+        <item> Barak </item>
+
+        <item> Dhansiri </item>
+        <item> Dibang </item>
+        <item> Dihing </item>
+        <item> Disang</item>
+        <item> Kameng </item>
+        <item> Kapili </item>
+        <item> Lohit</item>
+        <item> Manas</item>
+        <item> MHS </item>
+        <item> Siang </item>
+        <item> Staff/Faculty</item>
+        <item> Subansiri</item>
+        <item> Umiam </item>
+    </string-array>
+
+    <string-array name="fooditemsveg">
+        <item>---Veg--- </item>
+        <item>Veg Sandwitch </item>
+        <item>Veg Roll</item>
+        <item>Veg Chowmein </item>
+        <item>Veg Fried Rice</item>
+        <item>Veg Biryani</item>
+        <item>Aloo Paratha</item>
+        <item>Plain Paratha</item>
+        <item>Onion Paratha</item>
+        <item>Aloo Onion Paratha</item>
+        <item>Chilli Cheese Paratha</item>
+        <item>Stuff Paratha </item>
+        <item>Paneer Paratha </item>
+        <item> Plain Maggie</item>
+        <item> Fry Maggie</item>
+        <item> Pav Bhaji</item>
+        <item>Bread Pakoda</item>
+        <item> Pakoda</item>
+        <item> Mirchi Pakoda</item>
+        <item>Veg Thali</item>
+        <item>Aloo Sandwitch</item>
+        <item>Aloo Sandwitch ( with Big Bread)</item>
+    </string-array>
+    <string-array name="fooditemsnonveg">
+        <item>---Non Veg--- </item>
+        <item> Egg Sandwich </item>
+        <item> Egg Sandwich(with cheese) </item>
+        <item> Chicken sandwich </item>
+        <item> Chicken sandwich(with cheese) </item>
+        <item> Egg Burger </item>
+        <item> Egg Burger(with cheese) </item>
+        <item> Egg Roll </item>
+        <item>Egg Roll(with cheese) </item>
+        <item>Chicken Roll </item>
+        <item>Chicken Roll(with cheese) </item>
+        <item>Chicken Chowmien</item>
+        <item>Speacial Chowmien </item>
+        <item>Egg Fried Rice(Single) </item>
+        <item>Egg Fried Rice(Double) </item>
+        <item>Chicken Fried Rice  </item>
+        <item>Speacial Fried Rice </item>
+        <item> Chicken Biryani</item>
+        <item> Chicken Curry(3 pieces) </item>
+        <item>Chicken Dry Fry(3 pieces)</item>
+        <item>Chicken Cheese Paratha  </item>
+        <item>Egg Maggie </item>
+        <item>Chicken Maggie </item>
+        <item>Speacial Maggie</item>
+        <item> Chicken Chop  </item>
+        <item> Egg Chop </item>
+        <item> Chicken Rice</item>
+        <item> Fish Rice</item>
+        <item>Bread Omellete(Single)</item>
+        <item>Bread Omellete(Double)</item>
+        <item>Bread Poach</item>
+        <item>Chicken Sandwich</item>
+        <item>Chicken Burger</item>
+
+    </string-array>
+    <string-array name="type">
+        <item> Veg</item>
+        <item> Non Veg</item>
+    </string-array>
+
+
+    <string-array name="no">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+
+    </string-array>
+
+    <string-array name="places">
+        <item>Khoka Chicken Shop</item>
+
+        <item>Spectrum South Hub(1)</item>
+        <item>Spectrum South Hub(2)</item>
+
+
+
+    </string-array>
+</resources>
